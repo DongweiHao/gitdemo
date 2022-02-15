@@ -1,0 +1,23 @@
+commit 9aa33aca99382d5238c30d715527d5a35e575692
+Author: Dongwei Hao <Dongwei.Hao@dot.gov>
+Date:   Mon Feb 14 22:46:38 2022 -0500
+
+    mfc
+
+commit d77fd43192c4a1f9403b9b935cbb695af04c56a8
+Author: DongweiHao <37707218+DongweiHao@users.noreply.github.com>
+Date:   Mon Feb 14 22:39:16 2022 -0500
+
+    Create HashCode.txt
+
+commit fe58c4be364d7411e7512f561783c9e3941ae836
+Author: DongweiHao <37707218+DongweiHao@users.noreply.github.com>
+Date:   Mon Feb 14 22:28:57 2022 -0500
+
+    Update README.md
+
+commit ac3cbd8cdf85879484412efdf8784162468125c5
+Author: DongweiHao <37707218+DongweiHao@users.noreply.github.com>
+Date:   Mon Feb 14 22:27:50 2022 -0500
+
+    Initial commit
